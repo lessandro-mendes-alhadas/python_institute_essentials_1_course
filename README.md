@@ -1,2 +1,4 @@
-# python_institute_essentials_1_course
-Repo for exercises the tasks from course preparatory to PCEP 30-02 certification
+# Python Institute Essentials 1 Course
+Repository for exercises and assignments from the Python Institute PCEP 30-02 certification preparation course.
+
+[Python Essentials 1](https://pythoninstitute.org/python-essentials-1)

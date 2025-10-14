@@ -37,3 +37,11 @@ print('\nSecond member of a second nested list:',my_list[2][2][1])
 # Delete can delete whole list
 del my_list
 print('\nList was deleted')
+
+# New list
+my_list = [8, 10, 6, 2, 4]
+print('\nMy new List:',my_list)
+
+# Sorting the list
+my_list.sort()
+print('\nSorted List:',my_list)

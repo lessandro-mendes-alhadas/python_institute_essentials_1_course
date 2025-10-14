@@ -45,3 +45,7 @@ print('\nMy new List:',my_list)
 # Sorting the list
 my_list.sort()
 print('\nSorted List:',my_list)
+
+# Sorting in a reverse order
+my_list.reverse()
+print('\nList sorted in reverse order:',my_list)
